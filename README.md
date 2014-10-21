@@ -1,22 +1,4 @@
-Java Application project template
-------------------------------------
+Algorithms and Data Structures
+------------------------------
 
-You have just created a basic Java application. There is a standard project
-structure for source code and tests.
-
-In this project you get:
-
-* A Gradle build file
-* A standard project structure:
-
-    <proj>
-      |
-      +- src
-          |
-          +- main
-          |     |
-          |     +- java
-          |
-          +- test
-          |   |
-          |   +- java
+This project is motivated by my desire to further improve my knowledge of the most important algorithms and data structures.
