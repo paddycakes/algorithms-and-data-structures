@@ -6,5 +6,6 @@ repositories {
 }
 
 dependencies {
+	compile files(fileTree(dir: 'lib', includes: ['*.jar']))
     testCompile 'junit:junit:4.11'
 }
